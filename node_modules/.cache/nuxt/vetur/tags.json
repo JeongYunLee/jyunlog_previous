@@ -1,0 +1,41 @@
+{
+  "AuthorCard": {
+    "description": "Auto imported from components/AuthorCard.vue"
+  },
+  "AuthorIntro": {
+    "description": "Auto imported from components/AuthorIntro.vue"
+  },
+  "BuyMeACoffee": {
+    "description": "Auto imported from components/BuyMeACoffee.vue"
+  },
+  "Expertise": {
+    "description": "Auto imported from components/Expertise.vue"
+  },
+  "ProjectCard": {
+    "description": "Auto imported from components/ProjectCard.vue"
+  },
+  "TheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  },
+  "TheHeader": {
+    "description": "Auto imported from components/TheHeader.vue"
+  },
+  "TimeLine": {
+    "description": "Auto imported from components/TimeLine.vue"
+  },
+  "BlogItem": {
+    "description": "Auto imported from components/blogItem.vue"
+  },
+  "ButtonMC": {
+    "description": "Auto imported from components/buttonMC.vue"
+  },
+  "ColorMC": {
+    "description": "Auto imported from components/colorMC.vue"
+  },
+  "Darkmode": {
+    "description": "Auto imported from components/darkmode.vue"
+  },
+  "Lightmode": {
+    "description": "Auto imported from components/lightmode.vue"
+  }
+}

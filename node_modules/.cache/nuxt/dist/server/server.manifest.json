@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/author-card.js": "components/author-card.js",
+    "components/author-intro.js": "components/author-intro.js",
+    "components/blog-item.js": "components/blog-item.js",
+    "components/button-m-c.js": "components/button-m-c.js",
+    "components/color-m-c.js": "components/color-m-c.js",
+    "components/darkmode.js": "components/darkmode.js",
+    "components/expertise.js": "components/expertise.js",
+    "components/lightmode.js": "components/lightmode.js",
+    "components/project-card.js": "components/project-card.js",
+    "components/time-line.js": "components/time-line.js",
+    "pages/blog/_slug.js": "pages/blog/_slug.js",
+    "pages/blog/index.js": "pages/blog/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/projects.js": "pages/projects.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/author-card.js": "components/author-card.js.map",
+    "components/author-intro.js": "components/author-intro.js.map",
+    "components/blog-item.js": "components/blog-item.js.map",
+    "components/button-m-c.js": "components/button-m-c.js.map",
+    "components/color-m-c.js": "components/color-m-c.js.map",
+    "components/darkmode.js": "components/darkmode.js.map",
+    "components/expertise.js": "components/expertise.js.map",
+    "components/lightmode.js": "components/lightmode.js.map",
+    "components/project-card.js": "components/project-card.js.map",
+    "components/time-line.js": "components/time-line.js.map",
+    "pages/blog/_slug.js": "pages/blog/_slug.js.map",
+    "pages/blog/index.js": "pages/blog/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/projects.js": "pages/projects.js.map",
+    "server.js": "server.js.map"
+  }
+}
